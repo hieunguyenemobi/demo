@@ -1,0 +1,3 @@
+[submodule "subdemo1"]
+	path = subdemo1
+	url = https://github.com/hieunguyenemobi/subdemo1
